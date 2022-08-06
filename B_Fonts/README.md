@@ -1,8 +1,9 @@
 # CSS-Fonts
 
+Neben den Standard Schriftfamilien, die über CSS abrufbar sind, ist es ebenfalls möglich von z.B. der Webseite Goggle Fonts weitere Schriftfamilien auf dem PC zu installieren oder über einen Link auf diese zuzugreifen.
 
 ## 1. ![image](https://user-images.githubusercontent.com/63674539/183265354-9a50ab23-b840-422a-8d67-0b7eaf1b36ce.png)
-
+Miit diesem Link wird eine neue Schriftfamilie mit dem Dokument verküpft und kann somit verwedet werden.
 
 ## 2. ![image](https://user-images.githubusercontent.com/63674539/183265382-8f5eea5d-ff4d-474e-9182-2192f4f49b4f.png)
 Mit dieser Anweisung wird die Schriftfamilie festgelegt. Wenn eine Externe verwendet werden soll, so muss der Name in Anführungszeicvhen gesetzt werden.
@@ -16,7 +17,7 @@ Mit dieser Anweidung wird festgelegt wie dick die Schrift angezeigt werden soll.
 ## 5. ![image](https://user-images.githubusercontent.com/63674539/183265394-17af33dc-a979-4866-a43b-c7fe0d81a94b.png)
 Mit dieser Anweisung wird die Schriftgröße festgelegt.
 
-## 6. ![image](https://user-images.githubusercontent.com/63674539/183265400-6a54f871-78a4-41f2-b522-28083cad5423.png)
+## 6. ![image](https://user-images.githubusercontent.com/63674539/183267081-7fe3adc6-b436-45a6-99d7-476302e8e138.png)
 Mit dieser Anweisung kann der Text Dekoriert werden, z.B. kann der Text unterstrichen werden.
 
 ## 7. ![image](https://user-images.githubusercontent.com/63674539/183266130-cf7ec3ba-e841-431e-a875-d62327d9e9f7.png)
