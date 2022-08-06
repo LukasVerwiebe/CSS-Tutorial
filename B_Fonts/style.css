@@ -5,12 +5,12 @@ p{
 	font-family: "Ink Free","MV Boli",sans-serif;
 	font-style: italic;
 	font-weight: bold;
-	font-size: 18px;
-	text-decoration: normal;
+	font-size: 19px;
+	text-decoration: blue dotted underline;
 	color: #00aa00;
 	background-color: #111111;
 }
 h1{
-	font-family: 'Aldrich',"Ink Free", sans-serif;
+	font-family: "press Start 2P", "Ink Free", sans-serif;
 	color: #00FF00;
 }
