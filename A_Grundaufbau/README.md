@@ -1,16 +1,17 @@
 # CSS-Grundaufbau
 
 
-## 1. ![image](https://user-images.githubusercontent.com/63674539/183251263-049ddfc5-852f-472a-b505-d0019cc1cf48.png)
+
+## 1. ![image](https://user-images.githubusercontent.com/63674539/183260990-359d610a-cbe2-4742-9c94-cac32cab7703.png)
+Externe Stylesheets können über das "link" Tag referenziert werden mit dem link" Tag wird eine Beziehung zwischen zwei Dokumenten hergestellt. Dem Browser wird mitgeteilt, dass das im href Attribut genannte Dokument ein Stylesheet ist (rel="stylesheet"). Das type Attribut teilt mit, dass der Inhalt des Dokuments dem CSS3 Standard entspricht.
+
+## 2. ![image](https://user-images.githubusercontent.com/63674539/183260914-73348d3d-1865-4e83-9160-c92632418236.png)
 
 
-## 2. ![image](https://user-images.githubusercontent.com/63674539/183251315-56b8481d-0a19-41fe-b7eb-a3ffccfbef35.png)
+## 3. ![image](https://user-images.githubusercontent.com/63674539/183260946-e06e96bc-1c59-4eac-897e-4bfc91f3ff14.png)
 
 
-## 3. ![image](https://user-images.githubusercontent.com/63674539/183251309-d81760a1-9610-4d88-b62f-e788639d2f12.png)
-
-
-## 4. ![image](https://user-images.githubusercontent.com/63674539/183251329-8800d220-d1ee-4ef1-a872-acf8865e68c3.png)
+## 4. ![image](https://user-images.githubusercontent.com/63674539/183260963-157ea6cf-0d39-4fa8-9319-8f027f641264.png)
 
 
 
